@@ -1,0 +1,10 @@
+{
+  "extName": {
+    "message": "STFbU (Shut The Facebook Up)",
+     "description": "The extension's title, seen in gallery and extensions page"
+  },
+  "extDescription": {
+    "message": "Because inboxes should be voluntary.",
+    "description": "The extension's description, seen in gallery and extensions page"
+  }
+}
